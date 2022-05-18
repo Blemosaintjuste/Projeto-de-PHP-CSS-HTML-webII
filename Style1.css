@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+
+}
+body{
+    height: 10em;
+    position: relative ;
+    background-color: #000000;
+}
+img{
+    width: 108%;
+}
+.login{
+    border-radius: 10px;
+    padding: 5px;
+    width: 75%;
+}
+#logar{
+    width: 350px;
+    text-align: center;
+    padding: 10px 10px;
+    border: 1px solid rgb(21, 172, 164);
+    border-radius: 6px;
+}
+form{
+   
+    margin: 0;
+    position: absolute;
+    top: 200%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+    
+}
+fieldset{
+    background-color: #FFF0F5;
+    padding-top: 30%;
+    width: 280px;
+    height: 200px;
+    
+}
+hr{
+    width: 0%;
+   
+}
